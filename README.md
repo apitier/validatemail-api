@@ -9,11 +9,6 @@ It's simple REST API to Verify and Validate single email or bulk email addresses
 [Get a free API access key](https://www.theapibridge.com/signup) for trial requests.
 
 ## API Features
-* **All EU Member States Coverage**
-* **GB Coverage**
-* **Get Live VAT Rates**
-* **Get Company Name**
-* **Get Company Address**
 * **Simple RESTFUL API**
 * **Easy To Integrate**
 * **Mobile-friendly JSON API**
