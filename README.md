@@ -9,6 +9,14 @@ It's simple REST API to Verify and Validate single email or bulk email addresses
 [Get a free API access key](https://www.theapibridge.com/signup) for trial requests.
 
 ## API Features
+* **Regex Validation Check**
+* **Typo Suggestion**
+* **Disposable Email Check**
+* **Free Email Check**
+* **MX Check**
+* **Live SMTP Check**
+* **Single Email Validation** 
+* **Bulk Email Validation**
 * **Simple RESTFUL API**
 * **Easy To Integrate**
 * **Mobile-friendly JSON API**
